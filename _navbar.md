@@ -1,4 +1,4 @@
-* [快速上手](/)
+<!-- * [快速上手](/) -->
 * 组件
     * [XdTable表格](componentSidebar/components/XdTable.md)
     * [XdListView页面布局](componentSidebar/components/XdListView.md)
